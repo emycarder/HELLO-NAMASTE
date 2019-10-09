@@ -1,0 +1,85 @@
+
+ @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+ 
+ ::before, *:after{
+	box-sizing: border-box;
+}
+
+
+	body{
+background-color: #FFFFFF;
+margin: 0;
+font: 400 22px/1.8 Montserrat, sans-serif;
+color: #black;
+
+	}
+	
+	.ba-section-intro{
+		text-align: center;
+		background-size: cover;
+	}
+
+	.ba-menu{
+		list-style: none;
+		padding: 60px;
+		margin: 0;
+		display: flex;
+		align-items: center;
+		font-size: 14px;
+		text-align: center;
+	
+	}
+
+	.ba-inro-sublittle{
+		font-size: 16px;
+		color: #9A9A9A;
+		letter-spacing: 0.4px;
+	}
+
+	.ba-who{
+		color: #9A9A9A;
+		font-size: 12px;
+		font-weight: 800;
+		letter-spacing: 4px;
+		margin-bottom: 5px;
+	}
+
+	.ba-li{
+		padding: 60px 30px;
+		background-color: #F7F7F7;
+		text-align: center;
+
+
+	}
+
+ .ba-h1{
+	 color: #00C9CC;
+	 font-size: 47px;
+	 letter-spacing: 8px;
+	 text-align: center;
+	 margin: 0px;
+ }
+
+	p{
+		text-align: center;
+		
+	}
+
+	.ba-img{
+		display: inline;
+	 margin: 0;
+	}
+
+	.ba-box{
+		margin: 0 143px ;
+	}
+
+	.ba-pics{
+		margin: 0;
+	}
+
+	.ba-img-pd{
+		margin: 0;
+	}
+
+	
